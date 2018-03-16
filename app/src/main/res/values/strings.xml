@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MovieBrowser</string>
+    <string name="error">Ha ocurrido un error inesperado</string>
+    <string name="movie_poster_description">Póster de la película</string>
+    <string name="loading">Cargando…</string>
+</resources>
